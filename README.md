@@ -1,1 +1,1 @@
-README - Course repository
+A Hello World collection
